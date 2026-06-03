@@ -9,28 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2026 to present : Research Fellow (Project)
+  * Dept. of Earth Science, IIT Roorkee
+  * Project: Lunar Seismic Dataset of Chandrayaan-3
+  * Supervisor: Dr. Simanchal Padhy
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2025 to Jan 2026: Geophysicist (Jr.)
+  * MMPL Pvt Ltd
+  * Geophysical Survey; Software Tool Development
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Summer Research Fellow
+  * Planetary Science Division, PRL (ISRO, DOS India)
+  * Project: Study of Mars using Perseverance Rover Data
+  * Supervisor: Dr Dwijesh Ray
+    
+Education
+======
+* MSc (Tech) in Applied Geophysics, IIT (ISM) Dhanbad, 2025
+* BSc (Hons) in Physics, University of Burdwan, 2022
   
 Skills
 ======
