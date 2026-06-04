@@ -8,9 +8,9 @@ redirect_from:
 ---
 Hello there!
 
-I am a naturally curious—and often distracted—person. Despite that, I strive to contribute to the exploration and, perhaps one day, the responsible utilization of planetary bodies throughout our Solar System as a planetary geophysicist.
+I am a naturally curious - and often distracted - person. Despite that, I aspire to contribute to the exploration and, perhaps one day, the responsible utilization of planetary bodies throughout our Solar System as a planetary geophysicist.
 
-I spent much of my childhood playing cricket and gazing at the stars from my village in India. Those early experiences sparked a fascination with both the natural world and the vastness of the universe, a curiosity that continues to shape my life today.
+I spent much of my childhood playing cricket and gazing at the stars from my village in India. Those early experiences sparked a fascination with both the natural world and the vastness of the universe. It continues to shape my life today.
 
 Growing up in India, I was fortunate to enjoy the freedom to explore ideas and question assumptions. That freedom led me through a diverse intellectual and spiritual journey—from Buddhism to atheism, agnosticism, and eventually back to a somewhat modified form of Hinduism. Alongside my academic training in Physics and Astrophysics, these experiences helped me develop an open and adaptable mindset, one that values curiosity, critical thinking, and an appreciation for different cultures, languages, traditions, cuisines, and perspectives.
 
