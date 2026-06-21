@@ -55,8 +55,11 @@ redirect_from:
 
 Education: 
 MSc in Human Physiology, University of Gour Banga, 2021
+
 BSc (Hons) in  Human Physiology, University of  Kalyani, 2019
+
 12th (Science), Chuanpur Vidyaniketan Girls’ High School (HS), 2016
+
 10th,  Chuanpur Vidyaniketan Girls’ High School (H.S), 2014
 
 
