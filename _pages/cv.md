@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Research Experience
+## Work Experience: 
 
 ### Project Associate-I
 
@@ -51,5 +51,12 @@ redirect_from:
 
 **Project:** *Lung Health Status of Brickfield Workers: A Survey*
 
-**Supervisors:** Dr. Smritikana Biswas and Dr. Ramjyoti Ganguly
+**Supervisors:** Dr. Smritikana Biswas and Dr. Ramjyoti Ganguly 
+
+Education: 
+MSc in Human Physiology, University of Gour Banga, 2021
+BSc (Hons) in  Human Physiology, University of  Kalyani, 2019
+12th (Science), Chuanpur Vidyaniketan Girls’ High School (HS), 2016
+10th,  Chuanpur Vidyaniketan Girls’ High School (H.S), 2014
+
 
